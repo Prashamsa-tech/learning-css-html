@@ -1,0 +1,32 @@
+*{
+    margin:o auto;
+    padding: 0;
+
+}
+nav
+{
+    background-color: aqua;
+}
+.nav-content{
+    width: 80%;
+    display:block;
+}
+.menu{
+padding: 17px 0;
+width: 80%;
+}
+.menu a
+{
+    background-color: goldenrod;
+    color: green;
+    font-size: 100px;
+    padding: 40px;
+    display: inline-block;
+
+
+}
+.menu a:hover{
+   color: beige; 
+   background-color: blue;
+   
+}

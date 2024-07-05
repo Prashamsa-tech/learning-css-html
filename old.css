@@ -1,0 +1,32 @@
+*{
+    margin0 auto;
+    padding:0;
+}
+header
+{ background-color: azure;
+    padding: 30px 40px;
+
+}
+nav{
+    background-color:white;
+
+}
+
+nav a{
+    color: black;
+    font-size: 20px;
+    padding: 30px;
+}
+nav :hover{
+    color: aqua;
+}
+.content
+{
+    background-color: azure;
+    display: flex;
+}
+.left
+{
+    width: 70%;
+    background-color: red;
+}

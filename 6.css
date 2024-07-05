@@ -1,0 +1,18 @@
+*{
+    margin: auto;
+    display flex
+}
+.omm
+{
+    background-color: grid-template-columns;
+
+}
+.omm menu
+{
+    display: flex;
+    color: black;
+}
+.omm menu a
+{
+    display: block;
+}

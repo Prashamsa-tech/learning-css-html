@@ -1,0 +1,55 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    /*background colour is red*/
+}
+header{
+    /* background-color: silver; */
+    padding: 8px;
+    
+}
+header img{
+    height: 50px;
+}
+nav{
+    background-color: #040e4e;
+}
+nav a{
+    padding: 20px 15px;
+    display: inline-block;
+    color: aliceblue;
+}
+.feature{
+    padding: 30px;
+}
+.boxes{
+    display: flex;
+    position: relative;
+}
+.box{
+    background-color: aqua;
+    position: relative;
+}
+.box img{
+    display:block;
+    width: 400px;
+    height: 300px;
+}
+.red{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 200;
+    left: 200;
+    padding: 10px 5px;
+    color: rgb(14, 75, 39);
+
+}
+.bottom.right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+}

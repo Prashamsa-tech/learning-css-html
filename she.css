@@ -1,0 +1,28 @@
+*
+{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    width: 80%;
+    display: flex;
+    line-height: 30px;
+}
+.container .footerbox span
+{
+    line-height: 120px;
+}
+.container img{
+    display: flex;
+}
+.container
+{
+    display:flex;
+}
+.container div
+{
+    width: 80%;
+    display: inline-block;
+}
